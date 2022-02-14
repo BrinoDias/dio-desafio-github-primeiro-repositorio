@@ -1,2 +1,3 @@
-# dio-desafio-github-primeiro-repositorio
-Meu primeiro repositório Git/Github
+# Meu primeiro repositório no Git/Github.
+##### Meu primeiro repositório no Git/Github seguindo o desafio da Dio - Digital Innovation One.
+### dio-desafio-github-primeiro-repositorio
