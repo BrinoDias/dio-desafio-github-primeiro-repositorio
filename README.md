@@ -1,3 +1,5 @@
-# Meu primeiro repositório no Git/Github.
-##### Meu primeiro repositório no Git/Github seguindo o desafio da Dio - Digital Innovation One.
-### dio-desafio-github-primeiro-repositorio
+# Meu primeiro repositório no Git/GitHub.
+Meu primeiro repositório no Git/Github seguindo o desafio de projeto da Dio - Digital Innovation One.
+
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
